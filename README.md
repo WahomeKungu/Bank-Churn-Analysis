@@ -16,11 +16,6 @@ Our exit customers’ balances represent the extreme ends of the balance spectru
 ![github3](https://github.com/WahomeKungu/Bank-Churn-Analysis/assets/121131685/77cee700-f743-4550-a88a-a25ab203c92b)
 
 
-A tenure range of 4–6 years showed the highest exit rate, with exits more than doubling after the third year and reducing by nearly half after six years.
-
-
-
-
 RECOMMENDATIONS
 
 OFFER WIDER RANGE OF PRODUCTS
