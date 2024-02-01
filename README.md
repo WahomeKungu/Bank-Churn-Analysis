@@ -1,19 +1,21 @@
+[Get the full dashboard here](<iframe title="Bank Churn Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=03eeb36d-38b3-4aa5-8991-bc9b3cbf9bfe&autoAuth=true&ctid=a46229c7-21d1-417d-a1cb-1857a07d2765" frameborder="0" allowFullScreen="true"></iframe>)
+
 Churn rate is a metric that measures the extent to which customers stop using a product or service. We look at the general status of the bank and narrow the focus to exit customers. Here, we understand customer behavior and uncover any patterns or trends of customers exiting. To analyze this, we group customers with similar characteristics and needs together. To achieve this, we use two metrics: age and bank balance. Finally, we look at the possible solutions to the customer churn problem and determine strategies to retain customers.
 
 The dataset is bank data with 10,000 customers in France, Germany, and Spain. Five thousand one hundred fifty-one customers are active and 4,849 inactive. More than half of our customers are active. The bank has customer deposits totaling 765 million. Depositors with the most significant balances are between the ages 31–40, followed by 41–50, and the third, 26–30. Notably, these three age groups contribute more than 80% of total deposits and have the highest number of inactive accounts.
 
 
 
-Depositors with the most significant balances are between the ages 31–40, followed by 41–50, and the third, 26–30. Notably, these three age groups contribute more than 80% of total deposits and have the highest number of inactive accounts.
+
 Germany has a peculiarly higher churn rate of 32%, compared to France and Spain, with 16.15% and 16.67%, respectively. However, exit customer behavior is observed to be the same across the three countries. The three highest exit customer groups are aged 41–50, 31–40 and 51–60. One thousand seven hundred seventy-four exit customers belong to the three age groups, representing more than 87% of all exits.
 
 
-1,774 exit customers belong to the three age groups, representing more than 87% of all exits
+
 Our exit customers’ balances represent the extreme ends of the balance spectrum, with customers with balances between over 100,000 and 150,000, the third-highest balance group, exiting the most. The second highest exits are customers with the least balances between 0–10,000. These two groups represent 73% of all exits. An interesting observation is customers who used more than one product were less likely to stop using the bank’s services. Of all 2037 exit customers, 1409 had used only one product. The bank offers four products. 96% of exit customers had used one product. It is also noted that customers who were new to the bank for less than four years and those who had stayed more than six years were less likely to stop using the bank. A tenure range of 4–6 years showed the highest exit rate, with exits more than doubling after the third year and reducing by nearly half after six years.
 
 
 
-Tenure between 4–6 years significantly exit the bank while 96% of exit customers used only one product.
+
 RECOMMENDATIONS
 
 OFFER WIDER RANGE OF PRODUCTS
