@@ -5,6 +5,8 @@ The dataset is bank data with 10,000 customers in France, Germany, and Spain. Fi
 
 
 
+![github1](https://github.com/WahomeKungu/Bank-Churn-Analysis/assets/121131685/f9f61b93-9743-4552-ac4e-7f99dd06de73)
+
 
 Germany has a peculiarly higher churn rate of 32%, compared to France and Spain, with 16.15% and 16.67%, respectively. However, exit customer behavior is observed to be the same across the three countries. The three highest exit customer groups are aged 41–50, 31–40 and 51–60. One thousand seven hundred seventy-four exit customers belong to the three age groups, representing more than 87% of all exits.
 
