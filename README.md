@@ -10,6 +10,7 @@ The dataset is bank data with 10,000 customers in France, Germany, and Spain. Fi
 
 Germany has a peculiarly higher churn rate of 32%, compared to France and Spain, with 16.15% and 16.67%, respectively. However, exit customer behavior is observed to be the same across the three countries. The three highest exit customer groups are aged 41–50, 31–40 and 51–60. One thousand seven hundred seventy-four exit customers belong to the three age groups, representing more than 87% of all exits.
 
+![image](https://github.com/WahomeKungu/Bank-Churn-Analysis/assets/121131685/89c29e57-4f53-4557-b1c7-8daf37192755)
 
 
 Our exit customers’ balances represent the extreme ends of the balance spectrum, with customers with balances between over 100,000 and 150,000, the third-highest balance group, exiting the most. The second highest exits are customers with the least balances between 0–10,000. These two groups represent 73% of all exits. An interesting observation is customers who used more than one product were less likely to stop using the bank’s services. Of all 2037 exit customers, 1409 had used only one product. The bank offers four products. 96% of exit customers had used one product. It is also noted that customers who were new to the bank for less than four years and those who had stayed more than six years were less likely to stop using the bank. 
