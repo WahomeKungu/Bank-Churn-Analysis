@@ -1,4 +1,4 @@
-[Get the full dashboard here](<iframe title="Bank Churn Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=03eeb36d-38b3-4aa5-8991-bc9b3cbf9bfe&autoAuth=true&ctid=a46229c7-21d1-417d-a1cb-1857a07d2765" frameborder="0" allowFullScreen="true"></iframe>)
+![Get the full dashboard here](<iframe title="Bank Churn Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=03eeb36d-38b3-4aa5-8991-bc9b3cbf9bfe&autoAuth=true&ctid=a46229c7-21d1-417d-a1cb-1857a07d2765" frameborder="0" allowFullScreen="true"></iframe>)
 
 Churn rate is a metric that measures the extent to which customers stop using a product or service. We look at the general status of the bank and narrow the focus to exit customers. Here, we understand customer behavior and uncover any patterns or trends of customers exiting. To analyze this, we group customers with similar characteristics and needs together. To achieve this, we use two metrics: age and bank balance. Finally, we look at the possible solutions to the customer churn problem and determine strategies to retain customers.
 
