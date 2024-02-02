@@ -41,4 +41,4 @@ Customers who have stayed with the bank between 4–6 years are more likely to l
 
 INTRODUCE OR DEVELOP NEW PRODUCT MARKETING STRATEGIES
 
-From the analysis above, most customers using the bank’s products are less likely to leave. In contrast, nearly all who have left have only used one product. The bank must market its products and inform customers of what it offers. Marketing campaigns should be employed or better strategies should be employed to inform more customers and non-customers of what the bank offers.
+From the analysis above, most customers using more than one of the bank’s products are less likely to leave. In contrast, nearly all who have left have only used one product. The bank must market its products and inform customers of what it offers. Marketing campaigns should be employed or better strategies should be employed to inform more customers and non-customers of what the bank offers.
